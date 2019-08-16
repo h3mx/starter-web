@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a project to learn github, more changes to myfeature branch
+This is a project to learn github, more changes to myfeature branch. Adding a line fore rebasing example
 
 ## Introduction
 This repository is for showing how Git and GitHub work

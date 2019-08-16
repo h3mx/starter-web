@@ -12,3 +12,5 @@ Sample website with plenty of files for demos
 Section deployment
 
 ## How to contribute
+
+2014 Git.Trainig

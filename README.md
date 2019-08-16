@@ -1,5 +1,7 @@
 # Starter Web Project
 
+This is a project to learn github
+
 ## Introduction
 This repository is for showing how Git and GitHub work
 

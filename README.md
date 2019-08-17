@@ -16,4 +16,6 @@ Section deployment
 ## How to contribute
 Please fork this repository and then issue a pull request for review
 
-2014 Git.Trainig
+### Copyright
+
+2014 Git.Training
